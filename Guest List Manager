@@ -1,6 +1,6 @@
 /*
 Author: <Tarek alharstani>
-Id: <A08587>
+
 Study program: <DT>
 */
 import java.util.Scanner;
@@ -279,3 +279,4 @@ public class U1 {// DA339A_U1
         } while (bio);
     }
 }
+
